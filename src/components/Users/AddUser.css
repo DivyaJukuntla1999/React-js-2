@@ -1,0 +1,31 @@
+form {
+    background-color: white;
+    margin: 5% 20%;
+    padding: 1.5rem ;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.26);
+}
+
+form label {
+   font-weight: bold; 
+   display: block;
+   margin-bottom: .5rem;
+   margin-top: .2rem;
+}
+
+form input {
+    border: 1px solid black;
+    width: 100%;
+    padding : 0.2rem ;
+    font: inherit;
+    border-radius: 5px;
+    background-color: rgb(179, 212, 232);
+}
+
+button {
+    padding: 5px;
+    margin-top: 20px;
+    background: purple;
+    color: white;
+    cursor: pointer;
+}
